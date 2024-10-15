@@ -1,0 +1,31 @@
+/* Connexion */
+.login-container {
+    max-width: 400px;
+    margin: auto;
+}
+.login-container input:focus {
+    border: 2px solid #2d7511;
+    box-shadow: 0 0 5px rgba(33, 150, 10, 0.5);
+}
+
+/* Inscription */
+.register-container {
+    max-width: 400px;
+    margin: auto;
+}
+.register-container input:focus {
+    border: 2px solid #2d7511;
+    box-shadow: 0 0 5px rgba(33, 150, 10, 0.5);
+}
+
+a {
+    color: #2d7511;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #2ab300;
+    text-decoration: underline;
+}
+
